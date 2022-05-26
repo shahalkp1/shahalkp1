@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Shahal KP</h1>
 <h3 align="center">A passionate data science student</h3>
