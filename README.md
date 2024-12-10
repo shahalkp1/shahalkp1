@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shahal KP</h1>
-<h3 align="center">A passionate data science student</h3>
+<h3 align="center">A passionate data scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahalkp1&label=Profile%20views&color=0e75b6&style=flat" alt="shahalkp1" /> </p>
 
