@@ -1,37 +1,35 @@
+<h1 align="center"><span style="font-family: 'Georgia', serif; font-size: 36px; font-weight: bold;">Shahal KP</span></h1>
+<h3 align="center" style="font-family: 'Georgia', serif; font-size: 24px; font-weight: lighter;">Passionate Data Scientist | Machine Learning Enthusiast</h3>
 
-
-<h1 align="center">Hi 👋, I'm Shahal KP</h1>
-<h3 align="center">A passionate data scientist</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahalkp1&label=Profile%20views&color=0e75b6&style=flat" alt="shahalkp1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahalkp1" alt="shahalkp1" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/shahalkp1" target="blank"><img src="https://img.shields.io/twitter/follow/shahalkp1?logo=twitter&style=for-the-badge" alt="shahalkp1" /></a> </p>
-
-- 🔭 I’m currently working on **Time series, NLP project**
-
-- 🌱 Active learner!!
-
-- 👨‍💻 All of my projects are available at [https://github.com/shahalkp1](https://github.com/shahalkp1)
-
-- 📫 How to reach me **Shahalkp1@gmail.com , shahal.mi20@iiitmk.ac.in**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shahalkp1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahalkp1" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/shahal-k-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shahal-k-p" height="30" width="40" /></a>
-<a href="https://kaggle.com/shahalkp1166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shahalkp1166" height="30" width="40" /></a>
-<a href="https://instagram.com/shahal_kp1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahal_kp1" height="30" width="40" /></a>
-<a href="https://discord.gg/shahalkp#6773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shahalkp#6773" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahalkp1&show_icons=true&theme=light" alt="GitHub Stats" style="margin-bottom: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahalkp1&layout=compact&theme=light" alt="Top Languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p>
+  <strong>💻 Working as Data Scientist in ExactSpace</strong><br>
+  <strong>📖 Conducting research on AI for Industrials with time series data</strong><br>
+  <strong>💻 Interested in building bots, familiar with GEN AI and NLP</strong>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahalkp1&show_icons=true&locale=en&layout=compact" alt="shahalkp1" /></p>
+<p align="left">
+  <strong>🛠️ Skills & Tools</strong><br>
+  <ul>
+    <li><strong>Languages:</strong> Python, C, C++, Java, JavaScript</li>
+    <li><strong>Data Science:</strong> Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Seaborn</li>
+    <li><strong>Databases:</strong> MySQL, MongoDB</li>
+    <li><strong>Other Tools:</strong> Docker, Git, Hadoop, Kibana, Linux</li>
+  </ul>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahalkp1&show_icons=true&locale=en" alt="shahalkp1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahalkp1&" alt="shahalkp1" /></p>
-
+<p align="center">
+  <strong>📫 Connect With Me </strong><br>
+  Shahalkp1@gmail.com <br>
+  <strong>📞 Mobile:</strong> 8606821819<br>
+  <a href="https://twitter.com/shahalkp1" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/shahal-kp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/shahalkp1166" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://stackoverflow.com/users/shahal-k-p" target="_blank"><img src="https://img.shields.io/badge/-Stack%20Overflow-F58025?style=flat&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://leetcode.com/u/shahalkp1/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+</p>
