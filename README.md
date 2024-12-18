@@ -28,7 +28,7 @@
   Shahalkp1@gmail.com <br>
   <strong>📞 Mobile:</strong> 8606821819<br>
   <a href="https://twitter.com/shahalkp1" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://linkedin.com/in/shahal-kp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="www.linkedin.com/in/shahal-kp1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.kaggle.com/shahalkp1166" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   <a href="https://stackoverflow.com/users/shahal-k-p" target="_blank"><img src="https://img.shields.io/badge/-Stack%20Overflow-F58025?style=flat&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
   <a href="https://leetcode.com/u/shahalkp1/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
