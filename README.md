@@ -15,9 +15,9 @@
 <p align="left">
   <strong>🛠️ Skills & Tools</strong><br>
   <ul>
-    <li><strong>Languages:</strong> Python, C, C++, Java, JavaScript</li>
+    <li><strong>Languages:</strong> Python, C, C++, HTML, Css</li>
     <li><strong>Data Science:</strong> Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Seaborn</li>
-    <li><strong>Databases:</strong> MySQL, MongoDB</li>
+    <li><strong>Databases:</strong> MySQL, MongoDB, Cassandra</li>
     <li><strong>Other Tools:</strong> Docker, Git, Hadoop, Kibana, Linux</li>
   </ul>
 </p>
